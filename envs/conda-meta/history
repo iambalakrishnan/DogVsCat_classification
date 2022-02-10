@@ -1,4 +1,4 @@
-==> 2022-02-10 13:22:33 <==
+==> 2022-02-10 19:02:00 <==
 # cmd: /home/catalina/anaconda3/bin/conda create --prefix ./envs python=3.6 -y
 # conda version: 4.10.3
 +defaults/linux-64::_libgcc_mutex-0.1-main
