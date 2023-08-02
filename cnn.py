@@ -66,7 +66,7 @@ print("Saved model to disk")
 #
 # import numpy as np
 # from keras.preprocessing import image
-# test_image = image.load_img('/Users/sudhanshukumar/Downloads/cat.11.jpg', target_size = (64, 64))
+# test_image = image.load_img('/Users/imbk/Downloads/cat.11.jpg', target_size = (64, 64))
 # test_image = image.img_to_array(test_image)
 # test_image = np.expand_dims(test_image, axis = 0)
 # result = model.predict(test_image)
